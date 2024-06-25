@@ -11,6 +11,5 @@ def call(String input = "Running UPDTcleaner") {
             echo "Did not pass test_var"
         }
         echo "${TEST}"
-        echo "${}"
     }
 }
