@@ -10,5 +10,7 @@ def call(String input = "Running UPDTcleaner") {
         } else {
             echo "Did not pass test_var"
         }
+        echo "${TEST}"
+        echo "${}"
     }
 }
